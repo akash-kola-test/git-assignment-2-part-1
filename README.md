@@ -3,10 +3,17 @@
 
 Provides the Country name if provided with Capital
 
+## API Reference
+
+#### Get country name
+
+```http
+  GET https://example.com/country-capital/<query-params>
+```
+
 ## Prerequisites
 
 This project assumes that you have already installed python3 to run locally.
-
 ## Local development setup
 
 Create virtual environment
